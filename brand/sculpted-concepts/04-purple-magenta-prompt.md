@@ -1,0 +1,8 @@
+# Purple & Magenta concept
+
+Generated with the built-in image tool. Preview only; not an approved final logo.
+
+## Exact prompt
+
+Use case: logo-brand. Edit the supplied HAIDOS brand concept into a PURPLE AND MAGENTA direction. Preserve the recognizable flowing sculpted lowercase h silhouette, 3D depth, and clean lowercase haidos wordmark. Main changes are color and backdrop. Replace ALL teal, petrol and copper with deep aubergine, rich purple and controlled magenta. Emblem material: satin anodized purple metal, subtle brushed finish, dimensional curved surfaces, highlights transition from violet into raspberry magenta on selected edges. Excellent tonal modelling, no plastic neon glow, no gaming/rainbow look. Main background solid deep aubergine #160F24 with very subtle studio falloff. Bright warm-white wordmark #F5F1F7, crisp and very readable. REMOVE rock/mineral backdrop and ALL gold or copper seams. Replace right-edge decoration with a single clean smooth folded purple architectural surface, softly lit, understated, cropped at extreme right and occupying under 15% of composition. Spacious premium art direction for a thoughtful software engineering and manufacturing automation company. Top left small label exactly '04 / PURPLE & MAGENTA'. Five FLAT color swatches lower left, exact hex labels underneath: #160F24, #6336A5, #B83783, #BFA6DF, #F5F1F7. Do not add slogans, paragraphs, fake client claims or extra icons. Wordmark text exactly 'haidos'. Landscape 1536x1024 composition, sophisticated tangible sculptural depth remains the focus. This is one concept board, not a multi-option collage.
+
